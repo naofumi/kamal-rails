@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+sushi:
+  name: Sushi
+  cuisine: Japanese
+
+udon:
+  name: Udon
+  cuisine: Japanese
+
+hamburger:
+  name: Hamburger
+  cuisine: USA
+
+gyoza:
+  name: Gyoza
+  cuisine: Chinese
